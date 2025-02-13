@@ -2,6 +2,13 @@
 
 - ⚡ Fun fact: I made  sentence generator for [XKCD#1930](https://xkcd.com/1930/) you can find it on my page [here](https://gyulakerezsi.ro/random-stuff/xkcd-calendar-facts/) and the code [here](https://gist.github.com/gardient/2085f645706090426517c31cbaa9417d#file-xkcd-calendar-fact-generator-js-L176)
 
+## Awesome
+
+here is a list of stuff that I use, in no particular order, mostly for myself to remember them
+
+- [seashells](https://seashells.io/) - stream your cli output to the web, and check from anywhere
+- [ntfy](https://ntfy.sh) - send notifications to your phone, again from pretty much anywhere, you can even host it yourself
+
 <!--
 **gardient/gardient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
