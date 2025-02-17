@@ -6,10 +6,9 @@
 
 here is a list of stuff that I use, in no particular order, mostly for myself to remember them
 
-### linux
-
 - [seashells](https://seashells.io/) - stream your cli output to the web, and check from anywhere
 - [ntfy](https://ntfy.sh) - send notifications to your phone, again from pretty much anywhere, you can even host it yourself
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ### windows apps
 
