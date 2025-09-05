@@ -15,7 +15,7 @@ here is a list of stuff that I use, in no particular order, mostly for myself to
 - [ScreenBox media player](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-us&gl=US)
 - [ImageGlass](https://imageglass.org/)
 - [Zen Browser](https://zen-browser.app/)
-- [Files app](https://files.community/)
+- [Files app](https://files.community/) - not using this anymore, not worth the memory for me
 <!--
 **gardient/gardient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
