@@ -9,6 +9,9 @@ here is a list of stuff that I use, in no particular order, mostly for myself to
 - [seashells](https://seashells.io/) - stream your cli output to the web, and check from anywhere
 - [ntfy](https://ntfy.sh) - send notifications to your phone, again from pretty much anywhere, you can even host it yourself
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [watchtower](https://containrrr.dev/watchtower/)
+- [slash](https://github.com/yourselfhosted/slash)
+- [gitea](https://about.gitea.com/)
 
 ### windows apps
 
@@ -16,6 +19,11 @@ here is a list of stuff that I use, in no particular order, mostly for myself to
 - [ImageGlass](https://imageglass.org/)
 - [Zen Browser](https://zen-browser.app/)
 - [Files app](https://files.community/) - not using this anymore, not worth the memory for me
+
+### things I want to try/set up
+
+- NetBird
+- Rustdesk
 <!--
 **gardient/gardient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
