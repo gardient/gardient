@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Gyula
 
-- ⚡ Fun fact: I made  sentence generator for [XKCD#1930](https://xkcd.com/1930/) you can find it on my page [here](https://gyulakerezsi.ro/random-stuff/xkcd-calendar-facts/) and the code [here](https://gist.github.com/gardient/2085f645706090426517c31cbaa9417d#file-xkcd-calendar-fact-generator-js-L176)
+- ⚡ Fun fact: I made  sentence generator for [XKCD#1930](https://xkcd.com/1930/) you can find it on my page [here](https://gyk.ro/random-stuff/xkcd-calendar-facts/) and the code [here](https://gist.github.com/gardient/2085f645706090426517c31cbaa9417d#file-xkcd-calendar-fact-generator-js-L176)
 
 ## Awesome
 
