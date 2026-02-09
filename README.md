@@ -8,10 +8,11 @@ here is a list of stuff that I use, in no particular order, mostly for myself to
 
 - [seashells](https://seashells.io/) - stream your cli output to the web, and check from anywhere
 - [ntfy](https://ntfy.sh) - send notifications to your phone, again from pretty much anywhere, you can even host it yourself
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [watchtower](https://containrrr.dev/watchtower/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - IYKYK
+- [watchtower](https://watchtower.nickfedor.com/) - a fork, because this is still in dev
 - [slash](https://github.com/yourselfhosted/slash)
-- [gitea](https://about.gitea.com/)
+- [gitea](https://about.gitea.com/) - GOGS fork, generally awesome
+- [x-cmd](https://www.x-cmd.com/) - awesome if you want to have a quick way to access your favourite commands and not necessarily remember to install them
 
 ### windows apps
 
